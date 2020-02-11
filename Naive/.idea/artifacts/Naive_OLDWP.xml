@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Naive_OLDWP">
+    <output-path>$PROJECT_DIR$/out/artifacts/Naive_OLDWP</output-path>
+    <root id="archive" name="naive.jar">
+      <element id="module-output" name="BOIDS-master" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Adaptive Flocking.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
