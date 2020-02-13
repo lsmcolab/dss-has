@@ -3,8 +3,8 @@
 ## Introduction
 Project extends Craig Reynolds boid model in application of infiltration game where
 one attacker tries to get to the target which is defended by patrolling boids.
-In the codebase user can try to run it using DSS approach which is Monte Carlo Simulations
-as well as Hierarchical approach using ARIMA model to fit ellipse over the swarm.
+In the codebase users can try to run it using DSS approach which is Monte Carlo Simulations.
+Users can also run Hierarchical approach using ARIMA model to fit ellipse over the swarm. This HAS approach will need a rJava to connect R to Java (http://rforge.net/rJava/).
 Naive is our baseline algorithm to compare to our DSS and HAS approaches. It is attraction vector always
 going in a straight line to the target and getting repulsive force from defenders if attacker happens to be too close to them. 
 
