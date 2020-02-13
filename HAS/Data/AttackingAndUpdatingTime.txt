@@ -1,0 +1,62 @@
+I started to attack ,2675,1280
+Updating attack vector ,2813,1284
+I started to attack ,3669,1300
+Updating attack vector ,4272,1313
+I started to attack ,4657,1319
+I started to attack ,5620,1337
+Updating attack vector ,5733,1341
+I started to attack ,6226,1356
+Updating attack vector ,6877,1367
+I started to attack ,7266,1376
+I started to attack ,8308,1398
+Updating attack vector ,8308,1398
+I started to attack ,9272,1419
+Updating attack vector ,10221,1437
+I started to attack ,10260,1438
+I started to attack ,11208,1456
+Updating attack vector ,11596,1465
+I started to attack ,12207,1477
+Updating attack vector ,12927,1497
+I started to attack ,13069,1498
+I started to attack ,13737,1516
+Updating attack vector ,14241,1526
+I started to attack ,14544,1534
+I started to attack ,15542,1554
+Updating attack vector ,15639,1557
+I started to attack ,16178,1572
+Updating attack vector ,16646,1585
+I started to attack ,16833,1588
+Updating attack vector ,17072,1594
+I started to attack ,17467,1606
+Updating attack vector ,18116,1622
+I started to attack ,18245,1625
+Updating attack vector ,18908,1638
+I started to attack ,19075,1642
+I started to attack ,19752,1660
+Updating attack vector ,20179,1669
+I started to attack ,20721,1684
+Updating attack vector ,21263,1698
+I started to attack ,21455,1703
+I started to attack ,22107,1724
+Updating attack vector ,22162,1726
+I started to attack ,22924,1740
+Updating attack vector ,23293,1753
+I started to attack ,23579,1760
+I started to attack ,24208,1779
+Updating attack vector ,24268,1781
+I started to attack ,25138,1798
+Updating attack vector ,25433,1805
+I started to attack ,25821,1815
+Updating attack vector ,26408,1833
+I started to attack ,26429,1834
+I started to attack ,27034,1853
+Updating attack vector ,27169,1857
+Updating attack vector ,27619,1867
+I started to attack ,27745,1870
+Updating attack vector ,27979,1877
+Updating attack vector ,28403,1886
+I started to attack ,28504,1889
+Updating attack vector ,28659,1894
+Updating attack vector ,28970,1903
+I started to attack ,29095,1906
+Updating attack vector ,29244,1912
