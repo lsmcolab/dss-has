@@ -16,7 +16,7 @@ of the project as well as args parameters needs to be passed
 
 ## Directories
 From `DSS` folder you can run Monte Carlo Simulation approach  
-From `HASS` folder you can run ARIMA model  
+From `HAS` folder you can run ARIMA model  
 From `Naive` folder you can see our baseline algorithm
 
 ## References
