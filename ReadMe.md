@@ -1,4 +1,4 @@
-# Real-time Learning and Planning in Environments with Swarms:A Hierarchical and a Parameter-based Simulation Approach[1]
+# Real-time Learning and Planning in Environments with Swarms:A Hierarchical and a Parameter-based Simulation Approach [1]
 
 ## Introduction
 Project extends Craig Reynolds boid model in application of infiltration game where
@@ -20,4 +20,4 @@ From `HAS` folder you can run ARIMA model
 From `Naive` folder you can see our baseline algorithm
 
 ## References
-[1]L.Pelcner, S.Li, M.Alves, L.Marcolino, and A.Collins. 2020. Real-time Learning and Planning in Environments with Swarms:A Hierarchical and a Parameter-based Simulation Approach. In Proceedings of the xth International Conference onAutonomous Agents and Multi-agents Systems (AAMAS’2020)
+[1] Lukasz Pelcner, Shaling Li, Matheus Aparecido do Carmo Alves, Leandro Soriano Marcolino, Alex Collins. 2020. Real-time Learning and Planning in Environments with Swarms: A Hierarchical and a Parameter-based Simulation Approach. In Proceedings of the 19th International Conference on Autonomous Agents and Multi-agents Systems (AAMAS’2020)
